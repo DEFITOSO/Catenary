@@ -4,6 +4,8 @@
 
 This MATLAB script, `CatenariaODE`, is designed to compute and visualize the profile of a catenary, a curve formed by a suspended chain or cable. In the context of electrical engineering, catenaries play a crucial role in the design of overhead lines for efficient power distribution.
 ![image](https://github.com/DEFITOSO/Catenary/assets/101463417/fedbd8ed-4abb-4758-8ec7-899ff0efba84)
+![image](https://github.com/DEFITOSO/Catenary/assets/101463417/5cb44010-5628-41ec-b4e1-7605b1ed86ef)
+
 
 ## Catenary in Electrical Distribution
 
